@@ -1,7 +1,7 @@
 # sDAO: Sortition-based DAO
 
 ### Special Note:
- This project was originally presented at ETHNYC Hackathon hosted by ETHGlobal in June, 2022. Here are the [presentation slides](https://docs.google.com/presentation/d/1w8ViMaA4S9eEzgRgf9Gbv9k4dq331t-H1ebTF6gj92M/edit?usp=sharing) and here is the original project showcase link
+ This project was originally presented at ETHNYC Hackathon hosted by ETHGlobal in June, 2022. Here are the [presentation slides](https://docs.google.com/presentation/d/1w8ViMaA4S9eEzgRgf9Gbv9k4dq331t-H1ebTF6gj92M/edit?usp=sharing) and here is the [original project showcase link](https://ethglobal.com/showcase/sdao-sorition-based-dao-gjcbr).
 
 ### Brief description
 
